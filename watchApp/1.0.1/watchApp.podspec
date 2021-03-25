@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fuqibin' => '906351101@qq.com' }
-  s.source           = { :git => 'ssh://git@git.huabao.cn:10022/fu/watchsdk_ios.git', :tag => 1.0.1 }
+  s.source           = { :git => 'ssh://git@git.huabao.cn:10022/fu/watchsdk_ios.git'}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
